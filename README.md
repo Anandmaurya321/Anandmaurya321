@@ -2,13 +2,13 @@
 
 🎓 **B.Tech Computer Science Engineering (2023–2027)**  
 🏫 Madan Mohan Malaviya University of Technology, Gorakhpur  
-💻 Competitive Programmer | Full Stack (MERN) Developer  
+💻 Competitive Programmer | DSA | Full Stack (MERN) Developer  
 🚀 Passionate about problem-solving, automation, and building real-world systems
 
 ---
 
 ## 📫 Contact & Profiles
-- 📧 Email: 2023021009@mmmut.ac.in  
+- 📧 Email: mauryanand2004@gmail.com  
 - 📞 Contact: +91 7007649338  
 - 💼 LinkedIn: https://linkedin.com/in/anand-maurya  
 - 🧑‍💻 GitHub: https://github.com/Anandmaurya321  
@@ -38,10 +38,6 @@
 **Computer Engineering Society (CES), MMMUT**  
 📅 April 2024 – May 2025  
 - Organized and led multiple competitive programming events across the university  
-- Co-organized **Game of Codes** (with Coders and Developers Club, MMMUT)  
-  - 395 signups, 327 logins  
-- Led **Code Crusade 2024–25**  
-  - 322 signups, 206 logins  
 - Created the maximum number of high-quality CP problems in multiple contests  
 
 ---
@@ -50,7 +46,7 @@
 
 ### **Home_Help**  
 📅 July 2025 – September 2025  
-🔗 Project Repository: *(add link here)*  
+🔗 Project Repository: *https://github.com/Anandmaurya321/Home_Help2.0* 
 
 A real-world web platform bridging daily service providers and users.
 
@@ -69,7 +65,7 @@ React.js, Node.js, Express.js, MongoDB, JWT, Maps API
 
 ### **AI-Powered Career Email Automation Agent (n8n)**  
 📅 November 2025  
-🔗 Project Repository: *(add link here)*  
+🔗 Project Repository: *(add link here)*
 
 An AI-driven automation system for managing career-related emails.
 
@@ -113,14 +109,10 @@ Data Structures & Algorithms, OOP, DBMS, Computer Networks, System Design (Basic
 ---
 
 ## 📊 Competitive Programming Profiles
-- CodeChef: *(add link)*  
-- LeetCode: *(add link)*  
-- Codeforces: *(add link)*  
+- CodeChef: *https://www.codechef.com/users/anandmaurya123*  
+- LeetCode: *https://leetcode.com/u/iliveinindia134/*  
+- Codeforces: *https://codeforces.com/profile/codermaurya*  
 
----
-
-## 📈 GitHub Stats
-![Anand's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anandmaurya321&show_icons=true&theme=tokyonight)
 
 ---
 
