@@ -10,7 +10,7 @@
 ## 📫 Contact & Profiles
 - 📧 Email: mauryanand2004@gmail.com  
 - 📞 Contact: +91 7007649338  
-- 💼 LinkedIn: https://linkedin.com/in/anand-maurya  
+- 💼 LinkedIn: https://www.linkedin.com/in/anand-maurya-a894b5281/  
 - 🧑‍💻 GitHub: https://github.com/Anandmaurya321  
 
 ---
